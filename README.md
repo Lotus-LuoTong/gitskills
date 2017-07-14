@@ -1,2 +1,2 @@
 # gitskills
-Creating a nw branch is quick.
+Creating a new branch is quick.
